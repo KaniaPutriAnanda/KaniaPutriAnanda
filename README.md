@@ -69,7 +69,7 @@
             <td>Kania Putri Ananda</td>
             <td>
                 <form action="">
-                    <label for="umur"></label></th>
+                    <label for="umur"></label>
                     <input type="radio" name="umur" value="dewasa"> Dewasa <br>
                     <input type="radio" name="umur" value="bayi"> Bayi
                 </form>
